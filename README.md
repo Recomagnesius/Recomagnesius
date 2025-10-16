@@ -1,7 +1,7 @@
 # Hi there, I'm Danil! 👋
 
 ### 🚀 About Me
-🎓 First-year Computer Science student at Brandon University.  
+🎓 Second-year Computer Science student at Brandon University.  
 💻 Aspiring software developer and lifelong learner.  
 🌱 Currently learning Data Structures, Algorithms, and Web Development.  
 🔍 Open to internship opportunities to gain real-world experience!
